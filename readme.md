@@ -12,6 +12,6 @@ source env/bin/activate
 
 izmenenie 3
 
-pip install -r requirements.txt
+pip install -r requirements.txt		izmenenie 4
 
 python run.py
