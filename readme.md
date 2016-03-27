@@ -10,6 +10,8 @@ virtualenv env --no-site-packages
 
 source env/bin/activate
 
+izmenenie 3
+
 pip install -r requirements.txt
 
 python run.py
