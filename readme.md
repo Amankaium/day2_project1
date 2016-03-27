@@ -1,5 +1,7 @@
 git clone https://github.com/zuberok/bs_demo.git
 
+izmenenie 1
+
 cd bs_demo
 
 virtualenv env --no-site-packages
